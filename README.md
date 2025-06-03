@@ -32,6 +32,10 @@ This is a Python project that checks the strength of a password and verifies whe
 
 ---
 
-## 📂 Project Structure
+⚠️ Disclaimer
+This tool is for educational purposes only. Always respect user privacy and do not use it for unethical purposes.
+
+👩‍💻 Author
+Sakshi Sihag
 
 
